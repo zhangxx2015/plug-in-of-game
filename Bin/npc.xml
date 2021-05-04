@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<npc mapID="10" npcID="0x80002A4F" npcX="-80" npcY="-59" />
+	<npc mapID="10" npcID="0x80002A50" npcX="-78" npcY="-58" />
+	<npc mapID="10" npcID="0x80002F98" npcX="-80" npcY="-49" />
+	<npc mapID="4" npcID="0x80000990" npcX="-106" npcY="138" />
+	<npc mapID="4" npcID="0x80000993" npcX="-58" npcY="102" />
+	<npc mapID="4" npcID="0x80000B87" npcX="-62" npcY="110" />
+	<npc mapID="3" npcID="0x80000537" npcX="22" npcY="23" />
+	<npc mapID="3" npcID="0x80000539" npcX="0" npcY="-33" />
+	<npc mapID="3" npcID="0x800007B5" npcX="-1" npcY="-25" />
+	<npc mapID="5" npcID="0x80000E47" npcX="43" npcY="151" />
+	<npc mapID="5" npcID="0x80000E4B" npcX="101" npcY="174" />
+	<npc mapID="5" npcID="0x80000EBB" npcX="94" npcY="166" />
+	<npc mapID="6" npcID="0x80001183" npcX="21" npcY="-98" />
+	<npc mapID="6" npcID="0x8000118A" npcX="2" npcY="-70" />
+	<npc mapID="6" npcID="0x80001286" npcX="14" npcY="69" />
+	<npc mapID="2" npcID="0x8000000B" npcX="-82" npcY="-82" />
+	<npc mapID="2" npcID="0x80000011" npcX="-72" npcY="-170" />
+	<npc mapID="2" npcID="0x8000043E" npcX="-61" npcY="-166" />
+	<npc mapID="13" npcID="0x800032F0" npcX="39" npcY="204" />
+	<npc mapID="13" npcID="0x800032F2" npcX="35" npcY="228" />
+	<npc mapID="13" npcID="0x800032F8" npcX="35" npcY="235" />
+	<npc mapID="9" npcID="0x80002496" npcX="132" npcY="39" />
+	<npc mapID="9" npcID="0x8000249B" npcX="194" npcY="43" />
+	<npc mapID="9" npcID="0x8000249C" npcX="188" npcY="44" />
+	<npc mapID="14" npcID="0x80003BA0" npcX="-111" npcY="126" />
+	<npc mapID="14" npcID="0x80003BA4" npcX="-60" npcY="176" />
+	<npc mapID="14" npcID="0x80003BA5" npcX="-52" npcY="174" />
+	<npc mapID="8" npcID="0x80001E14" npcX="59" npcY="44" />
+	<npc mapID="8" npcID="0x80001E0E" npcX="20" npcY="52" />
+	<npc mapID="8" npcID="0x80001E0F" npcX="22" npcY="60" />
+</root>
